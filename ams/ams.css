@@ -1,3 +1,7 @@
-p.ams{
-    color: #fa0000; background-color: #1ed680;
+* {
+    color: #fa0000; background-color: #1ed680
+}
+
+div.table {
+    color: black
 }
