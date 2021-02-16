@@ -1,5 +1,5 @@
-p {
-    color: #eaff2a; background-color: #1ed680
+* {
+    background-color: #1ed680
 }
 
 th.table{
@@ -12,4 +12,8 @@ h1.header1{
 
 h2.header2{
     color: black
+}
+
+p {
+    color: #1e92d6;
 }
