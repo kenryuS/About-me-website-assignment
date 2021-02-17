@@ -13,7 +13,11 @@ th.table{
 }
 
 h1.header1{
-    color: black;
+    color: black
+}
+
+h1.bdr {
+    border: solid, 5px, red;
 }
 
 h2.header2{
