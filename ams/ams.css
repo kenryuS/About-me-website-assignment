@@ -12,8 +12,9 @@ th.table{
     color: black
 }
 
-h1.header1{
-    color: black
+h1.header1 {
+    color: black;
+    border: double 10px #0000ff;
 }
 
 h1.bdr {
@@ -25,7 +26,8 @@ h2.header2{
 }
 
 p {
-    color: #159df8
+    color: #159df8;
+    border: double 10px #0000ff;
 }
 
 li {
