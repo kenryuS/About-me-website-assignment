@@ -2,6 +2,12 @@
     background-color: #1ed61e
 }
 
+*.aline {
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 th.table{
     color: black
 }
