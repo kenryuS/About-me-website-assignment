@@ -33,9 +33,9 @@ b.big {
 }
 
 div.bdr {
-    border: double 5px #000000
+    border: double 5px #000000;
 }
 
 div.break {
-    border: solid 2px #3417ed
+    border: solid 2px #3417ed;
 }
