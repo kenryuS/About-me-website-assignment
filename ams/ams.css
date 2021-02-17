@@ -1,35 +1,23 @@
-*.aline {
-    width: 700px;
-    margin-right: auto;
-    margin-left: auto;
-}
-
 * {
-    background-color: #2d9137;
+    background-color: #1ed61e
 }
 
-th.table {
-    color: #ffffff
-}
-
-h1.header1 {
+th.table{
     color: black
 }
 
-h2.header2 {
-    color: black;
-    border: solid 5px #b6ff00
+h1.header1{
+    color: black
+}
+
+h2.header2{
+    color: black
 }
 
 p {
-    color: #ff9924;
-    border: solid 5px #b6ff00
+    color: #159df8
 }
 
 li {
-    color: #ff9924;
-}
-
-figure {
-    border: solid 5px #b6ff00
+	color: 
 }
