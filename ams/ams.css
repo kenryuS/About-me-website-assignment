@@ -13,12 +13,7 @@ th.table{
 }
 
 h1.header1 {
-    color: black;
-    border: double 10px #0000ff;
-}
-
-h1.bdr {
-    border: double 10px #0000ff
+    color: black
 }
 
 h2.header2{
@@ -26,8 +21,7 @@ h2.header2{
 }
 
 p {
-    color: #159df8;
-    border: double 10px #0000ff;
+    color: #159df8
 }
 
 li {
